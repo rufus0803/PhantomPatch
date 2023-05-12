@@ -2,13 +2,13 @@
 
 ## Creation attacks demo
 
-![demo_CA](C:\Users\12160\Desktop\video\demo_CA.gif)
+![demo_CA](CA.gif)
 
 
 
 ## Alteration attacks demo
 
-![cup_AA](C:\Users\12160\Desktop\video\cup_AA.gif)
+![cup_AA](AA.gif)
 
 
 
